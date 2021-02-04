@@ -1,0 +1,103 @@
+.title{
+    font-family: 'Open Sans', sans-serif;
+    background: transparent;
+}
+
+header{
+    background-image: url(https://images.pexels.com/photos/1118448/pexels-photo-1118448.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 600px;
+    width: 100%;
+}
+.jumbotron{
+    background: transparent;
+}
+.jumbotronwords{
+    font-family: 'Lobster', cursive;
+}
+a{
+    color:white;
+}
+.navbar{
+    z-index: 8;
+}
+.navbar-toggler{
+    border-color: white;
+}
+.navbar-nav{
+    float:right;
+}
+.form-inline{
+    float:right;
+    clear: right;
+}
+.second{
+    background-image: url(https://images.pexels.com/photos/490466/pexels-photo-490466.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 600px;
+    width: 100%;
+}
+.jumbotron2{
+    top:90px;
+    background-color: rgba(46, 46, 46, .45);
+    z-index: 2;
+    
+}
+.textinside{
+    color: white;
+    z-index: 4;
+
+
+}
+.third{
+    background-image: url(https://images.pexels.com/photos/490411/pexels-photo-490411.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 600px;
+    width: 100%;
+}
+.fourth{
+    background-image: url(https://images.pexels.com/photos/512478/pexels-photo-512478.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 600px;
+    width: 100%;
+}
+.fifth{
+    background-image: url(https://images.pexels.com/photos/1008000/pexels-photo-1008000.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 600px;
+    width: 100%;
+}
+ul{
+    list-style: none;
+}
+footer{
+    background-color: tomato;
+    height: 15vh;
+}
+
+
+
+.second, .third, .fourth, .fifth, .header {
+  /* The image used */
+  
+
+  /* Full height */
+   
+
+  /* Create the parallax scrolling effect */
+  position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
